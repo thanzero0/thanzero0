@@ -32,35 +32,6 @@
 
 ---
 
-### **Selected Projects**
-
-> Project nyata, belum hosting, tapi **kode jalan dan bisa dikembangkan**.
-
-#### 🧠 **Waifu Project**
-🔗 https://github.com/Thanzero7/Waifu  
-- Eksperimen frontend & struktur project  
-- Fokus ke UI, asset handling, dan logic dasar  
-- Playground untuk eksplorasi JavaScript & design  
-
-#### 💻 **Laptop E-Commerce Website**
-🔗 https://github.com/Thanzero7/Selling_laptop  
-- Website katalog produk laptop  
-- Struktur halaman produk, pricing, dan layout toko  
-- Latihan clean UI + reusable component  
-
-#### ⌚ **Watch Store Website**
-🔗 https://github.com/Thanzero7/selling-watch  
-- Website penjualan jam tangan  
-- Fokus ke visual hierarchy & product showcase  
-- Cocok sebagai base e-commerce template  
-
-#### 📺 **Television Store Website**
-🔗 https://github.com/Thanzero7/selling-television  
-- Website katalog TV elektronik  
-- Grid produk + detail view  
-- Eksplorasi layout skala besar  
-
----
 
 ### **Connect**
 

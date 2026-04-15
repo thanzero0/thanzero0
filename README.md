@@ -4,7 +4,7 @@
 
 ---
 
-### FADHIL SULTHAN
+## FADHIL SULTHAN
 
 **Web Developer · Mobile Developer · Machine Learning Engineer**
 
@@ -32,7 +32,6 @@
 
 ---
 
-
 ### **Connect**
 
 <div align="center">
@@ -56,7 +55,6 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="38" height="38" style="margin: 0 10px;" />
   </a>
 </div>
-
 
 ---
 

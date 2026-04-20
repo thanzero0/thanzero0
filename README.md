@@ -6,18 +6,38 @@
 
 ## FADHIL SULTHAN
 
-**Web Developer · Mobile Developer · Machine Learning Engineer**
+**Web Developer · Mobile Developer · Game Developer · Machine Learning Engineer · DevOps Engineer**
 
 ---
 
-### **Technical Focus**
-
-- End-to-end web & system development  
-- Odoo customization (backend & Owl frontend)  
-- Documentation-driven development  
-- Continuous learning on ML & data handling  
-
----
+<div align="center">
+  <div style="display: inline-block; background: linear-gradient(135deg, rgba(102, 126, 234, 0.08), rgba(240, 147, 251, 0.08)); border: 1px solid rgba(102, 126, 234, 0.2); border-radius: 15px; padding: 30px 40px; margin: 20px 0;">
+    <table style="border-collapse: collapse;">
+      <tr>
+        <td style="padding: 20px 30px; text-align: center; border-right: 1px solid rgba(102, 126, 234, 0.2);">
+          <div style="font-size: 2.5em; margin-bottom: 8px;">💻</div>
+          <strong style="color: #667eea; font-size: 1.1em;">Full Stack</strong>
+          <p style="margin: 5px 0 0 0; font-size: 0.85em; color: #777;">Web & Backend</p>
+        </td>
+        <td style="padding: 20px 30px; text-align: center; border-right: 1px solid rgba(102, 126, 234, 0.2);">
+          <div style="font-size: 2.5em; margin-bottom: 8px;">📱</div>
+          <strong style="color: #764ba2; font-size: 1.1em;">Mobile</strong>
+          <p style="margin: 5px 0 0 0; font-size: 0.85em; color: #777;">Cross-Platform Apps</p>
+        </td>
+        <td style="padding: 20px 30px; text-align: center; border-right: 1px solid rgba(102, 126, 234, 0.2);">
+          <div style="font-size: 2.5em; margin-bottom: 8px;">🖥️</div>
+          <strong style="color: #f093fb; font-size: 1.1em;">DevOps</strong>
+          <p style="margin: 5px 0 0 0; font-size: 0.85em; color: #777;">Infrastructure & Linux</p>
+        </td>
+        <td style="padding: 20px 30px; text-align: center;">
+          <div style="font-size: 2.5em; margin-bottom: 8px;">🤖</div>
+          <strong style="color: #4facfe; font-size: 1.1em;">ML & Data</strong>
+          <p style="margin: 5px 0 0 0; font-size: 0.85em; color: #777;">Python & Analysis</p>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 ### **Tech Stack**
 
@@ -29,6 +49,7 @@
 | **Machine Learning** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![CSV/XML](https://img.shields.io/badge/-CSV%2FXML-E8A904?style=flat-square&logo=json&logoColor=white) |
 | **Documentation & Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitBook](https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white) ![Fumadoc](https://img.shields.io/badge/-Fumadoc-000000?style=flat-square&logo=markdown&logoColor=white) |
 | **Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Zed](https://img.shields.io/badge/-Zed-3A3A3A?style=flat-square&logo=zedindustries&logoColor=white) ![Antigravity](https://img.shields.io/badge/-Antigravity-111111?style=flat-square&logo=python&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white) |
+| **Server** | ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white) |
 
 ---
 
